@@ -1,0 +1,1 @@
+print ("This is the first sentence for the git course.")
