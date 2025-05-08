@@ -1,4 +1,4 @@
 print ("This is the first sentence for the git course.")
-print ("This is the second line to commit to git again. ")
 
+print ("third line added for conflict ")
 print ("new new code")
